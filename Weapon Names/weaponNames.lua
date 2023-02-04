@@ -1,5 +1,5 @@
 weaponNames = {}
-weaponNames["WT_RIFLE"] = "Cool Rifle"
+weaponNames["WT_RIFLE"] = "Cool Rifle",
 
 
 Citizen.CreateThread(function()
