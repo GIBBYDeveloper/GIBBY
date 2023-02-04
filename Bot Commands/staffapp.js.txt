@@ -1,0 +1,22 @@
+const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
+
+module.exports = {
+    data: new SlashCommandBuilder()
+        .setName('staffapp')
+        .setDescription('Apply for AQUA staff'),
+    async execute(interaction, client) {
+        const row = new ActionRowBuilder()
+			.addComponents(
+				new ButtonBuilder()
+					.setCustomId('start')
+					.setLabel('Start Staff Application')
+					.setStyle(ButtonStyle.Secondary),
+			);
+        const msg = await interaction.user.send({ components: [row] });
+
+        const replyEmbed = new EmbedBuilder()
+            .setColor(client.color)
+            .setDescription(`Check your [DM's](${msg.url})`)
+        interaction.reply({ embeds: [replyEmbed] });
+    },
+};
