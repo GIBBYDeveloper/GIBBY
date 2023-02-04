@@ -7,3 +7,6 @@ Citizen.CreateThread(function()
 		AddTextEntry(k, v)
 	end
 end)
+
+--Console Message
+ print "weaponNames - Made by GIBBY"
