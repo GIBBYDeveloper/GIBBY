@@ -1,6 +1,6 @@
-weaponNames = {}
-weaponNames["WT_RIFLE"] = "Cool Rifle",
-
+weaponNames = {
+	"WT_RIFLE" = "Cool Rifle",
+}
 
 Citizen.CreateThread(function()
 	for k,v in pairs(weaponNames) do 
@@ -9,4 +9,4 @@ Citizen.CreateThread(function()
 end)
 
 --Console Message
- print "weaponNames - Made by GIBBY"
+ print("weaponNames - Made by Finnnyy??")
