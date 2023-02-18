@@ -20,7 +20,7 @@
 
 (Newest -> Oldest)
 - [Aqua Roleplay - Weapon Developer](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
-- - [FNR - Weapon Developer](https://discord.gg/fnruk) *(CMG Inspired Fragging Server)*
+- [FNR - Weapon Developer](https://discord.gg/fnruk) *(CMG Inspired Fragging Server)*
 
 <h2 align="center">stats</h2>
 
