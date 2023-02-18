@@ -42,4 +42,4 @@ function stringsplit(inputstr, sep)
 end
 
 --Console Message
- print "Roleplay Commands - Made by FINNY"
+ print "Roleplay Commands - Made by GIBBY"
