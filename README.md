@@ -13,11 +13,7 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
-## Stats
 
-![GIBBYDeveloper`s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=gibbydeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
-
-![](https://komarev.com/ghpvc/?username=GIBBYDeveloper&color=blueviolet)
 </p>
 
 <h2 align="center">Current Projects</h2>
