@@ -37,6 +37,10 @@
 
 <h2 align="center">stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIBBYDeveloper&count_private=true&show_icons=true&theme=dracula)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slobbery&" alt="GIBBY" /></p>
-<img src="https://komarev.com/ghpvc/?username=GIBBYDeveloper&color=lightgray" alt="fax" width="" height="">
+![GIBBYDeveloper`s GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=gibbydeveloper&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+
+![](https://komarev.com/ghpvc/?username=GIBBYDeveloper&color=blueviolet)
+
+<p align="center">
+  <a href="https://twitch.tv/finnycmg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCrlXUs_OwK7ay4dPRU5HDAw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
