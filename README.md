@@ -7,7 +7,6 @@
 - FiveM Developer
 
 ## Skills
-<img width="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" /> C#
 
 <img width="15" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-
 
