@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://twitch.tv/finnycmg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="twitch" height="20" width="20" /></a>
-<a href="https://www.youtube.com/@FINNY/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+<a href="https://www.youtube.com/channel/UCrlXUs_OwK7ay4dPRU5HDAw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 </p>
 
 <h2 align="center">Current Projects</h2>
