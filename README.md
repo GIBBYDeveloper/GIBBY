@@ -8,8 +8,6 @@
 
 ## Skills
 
-<img width="15" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-
-
 <img width="20" src="https://img.icons8.com/color/512/fivem.png" /> Fivem
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
