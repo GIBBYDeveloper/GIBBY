@@ -26,6 +26,12 @@
 (Newest -> Oldest)
 - [Aqua Roleplay - Weapon Developer](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
 - [FNR - Weapon Developer](https://discord.gg/fnruk) *(CMG Inspired Fragging Server)*
+- Element Roleplay (FiveM Semi-RP/Fragging server)
+- NV7 (FiveM Semi-RP/Fragging server)
+- Earth-RP THE COME BACK (FiveM Semi-RP/Fragging server)
+- CX (FiveM Semi-RP/Fragging server)
+- Earth-RP (FiveM Semi-RP/Fragging server)
+- GBRP THE COME BACK (FiveM Semi-RP/Fragging server)
 
 <h2 align="center">stats</h2>
 
