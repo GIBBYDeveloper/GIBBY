@@ -19,11 +19,12 @@
 <h2 align="center">Current Projects</h2>
 
 (Newest -> Oldest)
-- [ERP](https://discord.gg/erpuk)
+- [CX Roleplay - Founder](https://discord.gg/cxuk) *(CMG Inspired Fragging Server)*
 
 <h2 align="center">past projects</h2>
 
 (Newest -> Oldest)
+- [Element Roleplay - Founder](https://discord.gg/erpuk) *(CMG Inspired Fragging Server)*
 - [Aqua Roleplay - Weapon Developer](https://discord.gg/aquarpuk) *(CMG Inspired Fragging Server)*
 - [FNR - Weapon Developer](https://discord.gg/fnruk) *(CMG Inspired Fragging Server)*
 - Element Roleplay (FiveM Semi-RP/Fragging server)
