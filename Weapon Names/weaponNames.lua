@@ -1,5 +1,5 @@
 weaponNames = {
-	"WT_RIFLE" = "Cool Rifle",
+--	"WT_RIFLE" = "Cool Rifle",
 }
 
 Citizen.CreateThread(function()
@@ -9,4 +9,4 @@ Citizen.CreateThread(function()
 end)
 
 --Console Message
- print("weaponNames - Made by Finnnyy??")
+ print("weaponNames - Made by FINNY")
